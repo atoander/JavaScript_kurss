@@ -6,5 +6,5 @@
 **teksts - bold**  
 *teksts - italic*
 ## Nodarbības tēma
-paragrafs 1  
-paragrafs 2
+Paragrafs 1  
+Paragrafs 2
